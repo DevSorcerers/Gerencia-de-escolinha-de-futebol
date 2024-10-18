@@ -1,2 +1,2 @@
 # Gerencia-de-escolinha-de-futebol
-Ideia inicial de ser um App/site para gerenciar uma escolinha de futebol
+Aplicativo para gerenciamento de escolinha de futebol, Atletico Macaparanense
